@@ -54,12 +54,12 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
 
 ## 🌟 Featured Projects
 
-### featSlice
+### [featSlice](https://www.npmjs.com/package/featslice)
 Custom npm package I developed to accelerate development workflows in feature slice architecture. This tool streamlines the creation of feature components, ensuring consistent structure and reducing boilerplate code across projects.
 
 **Technologies:** TypeScript, Node.js
 
-### ts-analyzer
+### [ts-analyzer](https://www.npmjs.com/package/ts-analyzer)
 Static analysis tool for TypeScript projects that helps identify potential bugs, code smells, and architectural issues. Improves code quality and maintains consistent patterns across large codebases.
 
 **Technologies:** TypeScript, AST parsing
