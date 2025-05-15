@@ -8,11 +8,6 @@
 
 </div>
 
-<!-- METRICS SECTION: Shows your GitHub metrics with advanced stats -->
-<a href="https://github.com/amir-valizadeh">
-  <img src="https://metrics.lecoq.io/amir-valizadeh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&habits=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FTehran" alt="Detailed Metrics" width="100%">
-</a>
-
 ## 💫 About Me
 Senior Frontend Developer with 6+ years of experience specializing in React and TypeScript. I'm passionate about building scalable architecture, optimizing performance, and mentoring other developers. With a background in both frontend and backend development, I create comprehensive solutions that deliver exceptional user experiences while maintaining robust system architecture.
 
@@ -30,7 +25,7 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/amir-valizadeh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-valizadeh&theme=react-dark&hide_border=true&area=true" width="100%">
+    <img src="https://activity-graph.herokuapp.com/graph?username=amir-valizadeh&theme=react-dark&hide_border=true&area=true" width="100%">
   </a>
 </p>
 
@@ -109,13 +104,6 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
 
 ## 📈 GitHub Stats
 
-<!-- 3D CONTRIBUTION CALENDAR -->
-<div align="center">
-  <a href="https://github.com/amir-valizadeh">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-  </a>
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-valizadeh&theme=radical&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=amir-valizadeh&theme=radical&hide_border=true&count_private=true&show_icons=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
@@ -123,11 +111,6 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-valizadeh&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="40%" />
-</div>
-
-<!-- WakaTime Stats - Add these if you use WakaTime -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amir_valizadeh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="WakaTime Stats" width="60%" />
 </div>
 
 <!-- Skills animation -->
@@ -146,12 +129,6 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
   
 </div>
 
-<!-- TECH RADAR -->
-<div align="center">
-  <h3>My Technology Radar</h3>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=amir-valizadeh&skills=JavaScript,TypeScript,React,CSS,HTML,Python,Redux&width=820" alt="Codersrank skills chart" width="70%"/>
-</div>
-
 ## 💭 Favorite Quote
 
 <div align="center">
@@ -160,18 +137,11 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
   
 </div>
 
-<!-- SPOTIFY CURRENTLY PLAYING -->
-<div align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" alt="Spotify Currently Playing" width="350"/>
-  </a>
-</div>
-
 ---
 
 <div align="center">
   <!-- DYNAMIC BADGE -->
-  <img src="https://img.shields.io/github/last-commit/amir-valizadeh/github-username?style=for-the-badge&color=blueviolet" alt="Last Commit" />
+  <img src="https://img.shields.io/github/last-commit/amir-valizadeh/amir-valizadeh?style=for-the-badge&color=blueviolet" alt="Last Commit" />
   
   <img src="https://komarev.com/ghpvc/?username=amir-valizadeh&style=for-the-badge&color=blueviolet" alt="Profile Views" />
   
@@ -180,8 +150,3 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
   <!-- FOOTER WAVE -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
-
-<!-- Add this in your repository setup:
-1. GitHub Action for 3D profile: github.com/yoshi389111/github-profile-3d-contrib
-2. GitHub Action for Metrics: github.com/lowlighter/metrics
--->
