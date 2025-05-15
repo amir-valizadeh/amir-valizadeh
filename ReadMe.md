@@ -86,13 +86,12 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
 <div align="center">
 
 <!-- PROJECT CARDS -->
-<a href="https://www.npmjs.com/package/featslice">
+<a href="https://github.com/amir-valizadeh/featslice">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=amir-valizadeh&repo=featslice&theme=radical&hide_border=true&bg_color=0D1117" alt="featSlice" />
 </a>
-<a href="https://www.npmjs.com/package/ts-analyzer">
+<a href="https://github.com/amir-valizadeh/ts-analyzer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=amir-valizadeh&repo=ts-analyzer&theme=radical&hide_border=true&bg_color=0D1117" alt="ts-analyzer" />
 </a>
-
 
 | Project | Description | Technologies |
 |---------|-------------|-------------|
