@@ -93,6 +93,7 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=amir-valizadeh&repo=ts-analyzer&theme=radical&hide_border=true&bg_color=0D1117" alt="ts-analyzer" />
 </a>
 
+
 | Project | Description | Technologies |
 |---------|-------------|-------------|
 | [**featSlice**](https://www.npmjs.com/package/featslice) | Custom npm package for accelerating development workflows in feature slice architecture. Streamlines component creation, ensures consistent structure and reduces boilerplate. | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
