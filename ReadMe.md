@@ -1,7 +1,8 @@
 # 👋 Hello, I'm Amir Valizadeh
 
 <div align="center">
-  
+ 
+ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=600&lines=Senior+Frontend+Developer;TypeScript+%26+React+Specialist;Architecture+Enthusiast;Problem+Solver;Performance+Optimizer)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="300">
