@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Amir Valizadeh
+# 👋 Hello, I'm Amir
 
 <div align="center">
  
