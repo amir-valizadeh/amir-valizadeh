@@ -26,7 +26,7 @@ Senior Frontend Developer with 6+ years of experience specializing in React and 
 <!-- GitHub Activity Graph -->
 <p align="center">
   <a href="https://github.com/amir-valizadeh">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amir-valizadeh&theme=react-dark&hide_border=true&area=true" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amir-valizadeh&theme=react-dark&hide_border=true&area=true" width="100%">
   </a>
 </p>
 
