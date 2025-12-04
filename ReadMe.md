@@ -33,17 +33,43 @@ I am a **Senior Full-Stack Engineer** with **6+ years** of experience. I don't j
 
 ---
 ### 🏗️ Architecture Philosophy
-*I believe in modularity. Here is how I typically structure my Next.js + NestJS projects:*
+
+*I design systems for scale and reliability. My preferred architecture leverages **Event-Driven Design** on AWS, decoupling services via SQS/SNS, accelerating delivery with CloudFront, and maintaining strict observability with Sentry.*
 
 ```mermaid
-graph LR
-    A["Client (Next.js)"] -->|"GraphQL/REST"| B["API Gateway (NestJS)"]
-    B --> C{Microservices}
-    C -->|"gRPC"| D["Auth Service"]
-    C -->|"gRPC"| E["Core Service"]
-    E --> F[("PostgreSQL")]
-    E --> G[("Redis Cache")]
-    D --> H["OAuth Providers"]
+graph TD
+    subgraph Client_Layer ["Client & Edge Layer"]
+        User(("User")) -->|"HTTPS"| CDN["AWS CloudFront"]
+        CDN -->|"Static Assets"| S3["AWS S3"]
+        CDN -->|"SSR/API"| Client["Next.js (Frontend)"]
+    end
+
+    subgraph Orchestration ["Orchestration & Gateway"]
+        Client -->|"REST/GraphQL"| ALB["AWS ALB (Load Balancer)"]
+        ALB --> Gateway["NestJS API Gateway"]
+        Gateway -->|"Auth Guard"| Cognito["AWS Cognito / Auth"]
+    end
+
+    subgraph Event_Bus ["Async Event Bus"]
+        Gateway -.->|"Publish Event"| SNS["AWS SNS (Topics)"]
+        SNS -->|"Fan-out"| SQS["AWS SQS (Queues)"]
+    end
+
+    subgraph Services ["Microservices Layer"]
+        SQS -->|"Consume Job"| Worker["Background Worker"]
+        Gateway -->|"gRPC"| Core["Core Service (NestJS)"]
+        Gateway -->|"gRPC"| Pay["Payment Service"]
+        
+        Core --> DB[("AWS RDS (Postgres)")]
+        Core --> Cache[("AWS ElastiCache (Redis)")]
+    end
+
+    subgraph Observability ["Observability"]
+        Client -.->|"Error Tracing"| Sentry
+        Gateway -.->|"Performance/Errors"| Sentry
+        Core -.->|"Backend Errors"| Sentry
+        Worker -.->|"Job Failures"| Sentry
+    end
 
 ```
 
