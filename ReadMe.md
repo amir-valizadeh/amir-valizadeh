@@ -3,14 +3,14 @@
 <div align="center">
  
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=600&lines=Senior+Frontend+Developer;TypeScript+%26+React+Specialist;Architecture+Enthusiast;Problem+Solver;Performance+Optimizer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FE428E&center=true&vCenter=true&random=false&width=600&lines=Software+enginner;TypeScript+%26+React+Nestjs+Specialist;Architecture+Enthusiast;Problem+Solver;Performance+Optimizer)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="300">
 
 </div>
 
 ## 💫 About Me
-Senior Frontend Developer with 6+ years of experience specializing in React and TypeScript. I'm passionate about building scalable architecture, optimizing performance, and mentoring other developers. With a background in both frontend and backend development, I create comprehensive solutions that deliver exceptional user experiences while maintaining robust system architecture.
+Software Enginner with 6+ years of experience specializing in React,Nestjs and TypeScript. I'm passionate about building scalable architecture, optimizing performance, and mentoring other developers. With a background in both frontend and backend development, I create comprehensive solutions that deliver exceptional user experiences while maintaining robust system architecture.
 
 > "The best way to predict the future is to implement it." 
 
