@@ -60,15 +60,18 @@ graph LR
 
 ---
 
-### 📊 The Numbers
-
+📊 The Numbers
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amir-valizadeh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-valizadeh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+<!-- Switched to Mirror URL to fix 503 Error -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amir-valizadeh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amir-valizadeh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-valizadeh&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-valizadeh&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+</div>
+<!-- Snake Animation (More stable than Activity Graph) -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
